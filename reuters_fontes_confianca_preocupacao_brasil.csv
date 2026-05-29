@@ -1,0 +1,14 @@
+fonte;tipo;subtipo;uso_semanal_pct;confianca_pct;preocupacao_fake_pct;referencia_confianca
+TV (qualquer);Tradicional;Televisão;78.0;55.0;;Globo (média TV)
+Jornal impresso;Tradicional;Impresso;14.0;54.0;;O Globo / regionais (média)
+Rádio;Tradicional;Rádio;28.0;59.0;;Jornais regionais (proxy)
+Portais/Sites de notícias;Digital;Portal Online;50.0;51.0;60.0;Google Search (proxy portais)
+YouTube;Digital;Rede Social/Vídeo;37.0;;54.0;Reuters 2024
+Instagram;Digital;Rede Social;37.0;;49.0;Reuters 2024
+WhatsApp;Digital;Mensageiro;36.0;;51.0;Reuters 2024
+Facebook;Digital;Rede Social;28.0;;51.0;Reuters 2024
+TikTok;Digital;Rede Social/Vídeo;18.0;;44.0;Reuters 2024
+X (Twitter);Digital;Rede Social;9.0;;41.0;Reuters 2024
+Podcasts;Digital;Áudio Digital;10.0;;;Não medido
+AI Chatbots;Digital;Inteligência Artificial;9.0;;;Não medido
+Confiança geral nas notícias;Geral;Indicador Geral;;42.0;59.0;Reuters 2025 — Brasil geral
