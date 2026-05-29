@@ -1,4 +1,4 @@
-# MD_M# CONSUMO DE MÍDIA TRADICIONAL E DIGITAL NO BRASIL:
+# CONSUMO DE MÍDIA TRADICIONAL E DIGITAL NO BRASIL:
 
 ## Uma análise de mineração de dados e hábitos de informação
 
@@ -127,7 +127,7 @@ Os resultados demonstraram:
 
 # 👩‍💻 Autoras
 
-# Edneáia Silva e Sara Biotto
+# Ednéia Silva e Sara Biotto
 Projeto acadêmico desenvolvido para análise de consumo de mídia e transformação digital no Brasil utilizando técnicas de mineração de dados.
 
 
